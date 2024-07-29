@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I have worked as a graphic designer for more than 5 years, and I am proficient in using design applications and video editing software from the Adobe family. I have extensive experience in branding companies using digital marketing strategies.
-
-In addition, I have over 5 years of experience in website development, using Hugo or CMS. I have created websites for various purposes, including company profiles, landing pages, blogs, portfolios, and e-commerce.
+Front-end developer with a passion for crafting interactive and visually appealing web applications. Skilled in HTML, CSS, JavaScript, and modern frameworks. Always eager to learn and collaborate on innovative projects. Let's build something amazing together!
 
 ## Social Media
 [![Instagram Badge](https://img.shields.io/badge/-Iyan_Sanjaya-2d2d2d?style=for-the-badge&logo=instagram&style=flat)](https://instagram.com/iyansanjaya)
