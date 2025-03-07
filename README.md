@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Front-end developer with a passion for crafting interactive and visually appealing web applications. Skilled in HTML, CSS, JavaScript, and modern frameworks. Always eager to learn and collaborate on innovative projects. Let's build something amazing together!
+Front-end developer with a passion for crafting interactive and visually appealing web applications. Skilled in React, NextJS, Tailwind, HTML, CSS, JavaScript and Typescript. Always eager to learn and collaborate on innovative projects. Let's build something amazing together!
 
 ## Social Media
 [![Instagram Badge](https://img.shields.io/badge/-Iyan_Sanjaya-2d2d2d?style=for-the-badge&logo=instagram&style=flat)](https://instagram.com/iyansanjaya)
