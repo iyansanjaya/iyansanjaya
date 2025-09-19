@@ -11,6 +11,6 @@ Front-end developer with a passion for crafting interactive and visually appeali
 [![Medium Badge](https://img.shields.io/badge/-Iyan_Sanjaya-2d2d2d?style=for-the-badge&logo=medium&style=flat)](https://iyansanjaya.medium.com)
 
 ## Contact 
-[![GMail Badge](https://img.shields.io/badge/-hallo@iyansanjaya.my.id-2d2d2d?style=for-the-badge&logo=gmail&style=flat)](mailto:hallo@iyansanjaya.my.id)
+[![GMail Badge](https://img.shields.io/badge/-hi@iyansanjaya.com-2d2d2d?style=for-the-badge&logo=gmail&style=flat)](mailto:hi@iyansanjaya.com)
 ____
 [![GitHub](https://gitmystat.vercel.app/top?username=iyansanjaya&layout=bar)](https://https://iyansanjaya.com)
